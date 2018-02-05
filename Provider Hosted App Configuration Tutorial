@@ -1,0 +1,13 @@
+SP 
+
+https://blogs.msdn.microsoft.com/russmax/2014/06/23/part-1-intro-to-provider-hosted-apps-setup-the-infrastructure/
+
+SharePoint Central Admin Prerequisites
+
+SharePoint you must have the following service applications provisioned and started:
+
+Subscription Service Application with proxy
+Subscription Settings Service instance started
+Application Management Service Application and proxy
+App Management Service instance started
+Must have User Profile Service started
